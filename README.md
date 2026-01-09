@@ -128,10 +128,10 @@ brew services start mongodb-community \\using homebrew
 ## Project Structure
 ```bash
 AMS/
-├── AMS-Backend/             # Django backend
+├── AMS-Backend/             # MERN stack backend
 │   └── ...
-├── AMS-Frontend/            # React frontend
+├── AMS-Frontend/            # React Native frontend
 │   └── ...
-├── AMS Figma.pdf/                # ConvoHub Preview
+├── AMS Figma.pdf/           # AMS Preview
 ├── README.md
 ```
